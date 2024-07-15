@@ -22,8 +22,8 @@ Make sure you have a web browser installed (e.g., Chrome, Firefox).
 
 1. **Clone the repository or download the files:**
    ```bash
-   git clone <repository-url>
-   cd calculator-project
+   git clone git@github.com:httpsmojojojo/calculator.git
+   cd calculator
    ```
 
 4. **Open in a browser:**
